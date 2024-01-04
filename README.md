@@ -161,6 +161,6 @@ And then commit/push the output created at `backend/web_build` to the git reposi
 
 # License
 
-The use of code in this repository is governed by Crowdbotics [Terms and Conditions](https://www.crowdbotics.com/terms-of-service).
+The use of code in this repository is governed by Cryptobeam [Terms and Conditions](https://www.cryptobeam.us/terms-of-service).
 
-Created with ❤️ by [Crowdbotics](https://www.crowdbotics.com/)
+Created with ❤️ by [Cryptobeam](https://www.cryptobeam.us/)
