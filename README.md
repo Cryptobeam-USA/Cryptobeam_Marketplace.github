@@ -4,14 +4,11 @@ Welcome to the Cryptobeam Marketplace app.
 
 ## What is Cryptobeam Marketplace?
 
-Welcome to Cryptobeam CEX - the cutting-edge centralized exchange platform designed for the modern trader. Our platform offers a robust, secure, and intuitive interface for trading a wide array of cryptocurrencies. Experience swift transactions, real-time analytics, and comprehensive customer support. Join the Cryptobeam CEX community and take your trading to the next leve
-The reason this works is that most software applications and features we want to build are similar to applications that have been built before. We've crawled hundreds of thousands of public code repositories to teach the Crowdbotics engine how to create software.
-
-As a result, Crowdbotics can generate new applications automatically in a standardized way.
+Welcome to Cryptobeam CEX - the cutting-edge centralized exchange platform designed for the modern trader. Our platform offers a robust, secure, and intuitive interface for trading a wide array of cryptocurrencies. Experience swift transactions, real-time analytics, and comprehensive customer support. Join the Cryptobeam CEX community and take your trading to the next level.
 
 ### Useful Links
 
-@@ -34,9 +38,7 @@ Welcome to Cryptobeam CEX - the cutting-edge centralized exchange platform desig
+@@ -34,9 +38,7 @@ Welcome to Cryptobeam CEX - the cutting-edge centralized exchange platform
 
 [App Dashboard](https://app.cryptobeam.us/)
 ·
